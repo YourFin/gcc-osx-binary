@@ -1,3 +1,5 @@
+This fork exists simply to make sure that the original never gets taken down.
+
 ***Works on macOS 10.12 Sierra***
 
 This is the macOS binary for the stable release gcc-6.3.0, this file is provided for your convenience, if you prefer to compile yourself gcc-6.3.0 visit the tutorial webpage for build instructions:
